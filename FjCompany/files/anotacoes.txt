@@ -1,0 +1,7 @@
+Foi necessário instalar o visual studio tools devido ao c++
+
+# Comandos de instalação
+pip install django
+pip install django-admin
+C:\users\gabri\appdata\roaming\python\python311\Scripts\django-admin.exe startproject FjCompany
+
